@@ -1,0 +1,19 @@
+.actionButtons {
+  display: flex;
+  gap: 2px;
+  align-items: center;
+}
+
+.notes-sidepanel {
+  flex-grow: 1;
+}
+
+.notes-header-title {
+    display: flex;
+    background-color: var(--colorPaletteCornflowerBackground2);
+    font-size: 14px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px;
+    font-weight: 600;
+}

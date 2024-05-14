@@ -1,0 +1,42 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+  align-items: center;
+  padding: 8px 12px;
+  background-color: var(--colorPaletteCornflowerForeground2);
+  color: var(--colorNeutralForegroundInverted);
+}
+
+.logo {
+  width: 28px;
+  height: 28px;
+  min-width: 28px;
+}
+
+.logoArea {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+.logoText {
+  overflow: hidden;
+  animation: typing 3s steps(40, end);
+}
+
+.navLink {
+  color: white !important;
+  text-decoration: none;
+  font-weight: 600;
+}
