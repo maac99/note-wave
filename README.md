@@ -62,3 +62,7 @@ Once the app is up and running, you can access it at [http://localhost:8080/](ht
 - **Please do not modify the `.env` file** as it contains sensitive configuration information required for the app to connect to the database and function properly.
 
 ## Video Demo
+
+
+https://github.com/maac99/note-wave/assets/60207713/c08ffe1a-e051-4fa8-ba21-8b87ecda8b4f
+
